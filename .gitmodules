@@ -8,3 +8,8 @@
 	url = https://github.com/diseaseneurogenomics/variancepartition
 	shallow = true
 	registered = true
+[submodule "zenith"]
+	path = zenith
+	url = https://github.com/diseaseneurogenomics/zenith
+	shallow = true
+	registered = true

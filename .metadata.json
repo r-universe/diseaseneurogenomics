@@ -1,5 +1,8 @@
 [
   {
     "package": "variancePartition"
+  },
+  {
+    "package": "zenith"
   }
 ]
