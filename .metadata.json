@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "package": "variancePartition"
+  },
+  {
+    "package": "zenith"
+  }
+]
