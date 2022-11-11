@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "remaCor"]
+	path = remaCor
+	url = https://github.com/diseaseneurogenomics/remacor
+	shallow = true
+	registered = true
 [submodule "variancePartition"]
 	path = variancePartition
 	url = https://github.com/diseaseneurogenomics/variancepartition
