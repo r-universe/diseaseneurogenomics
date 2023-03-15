@@ -1,12 +1,12 @@
 [
   {
-    "package": "remaCor",
-    "oncran": true
+    "package": "zenith"
   },
   {
     "package": "variancePartition"
   },
   {
-    "package": "zenith"
+    "package": "remaCor",
+    "oncran": true
   }
 ]
